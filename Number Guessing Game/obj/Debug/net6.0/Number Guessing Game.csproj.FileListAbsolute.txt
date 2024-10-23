@@ -1,0 +1,15 @@
+/Users/kwadwo/Development/C#/Number Guessing Game/Number Guessing Game/bin/Debug/net6.0/Number Guessing Game
+/Users/kwadwo/Development/C#/Number Guessing Game/Number Guessing Game/bin/Debug/net6.0/Number Guessing Game.deps.json
+/Users/kwadwo/Development/C#/Number Guessing Game/Number Guessing Game/bin/Debug/net6.0/Number Guessing Game.runtimeconfig.json
+/Users/kwadwo/Development/C#/Number Guessing Game/Number Guessing Game/bin/Debug/net6.0/Number Guessing Game.dll
+/Users/kwadwo/Development/C#/Number Guessing Game/Number Guessing Game/bin/Debug/net6.0/Number Guessing Game.pdb
+/Users/kwadwo/Development/C#/Number Guessing Game/Number Guessing Game/obj/Debug/net6.0/Number Guessing Game.csproj.AssemblyReference.cache
+/Users/kwadwo/Development/C#/Number Guessing Game/Number Guessing Game/obj/Debug/net6.0/Number Guessing Game.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kwadwo/Development/C#/Number Guessing Game/Number Guessing Game/obj/Debug/net6.0/Number Guessing Game.AssemblyInfoInputs.cache
+/Users/kwadwo/Development/C#/Number Guessing Game/Number Guessing Game/obj/Debug/net6.0/Number Guessing Game.AssemblyInfo.cs
+/Users/kwadwo/Development/C#/Number Guessing Game/Number Guessing Game/obj/Debug/net6.0/Number Guessing Game.csproj.CoreCompileInputs.cache
+/Users/kwadwo/Development/C#/Number Guessing Game/Number Guessing Game/obj/Debug/net6.0/Number Guessing Game.dll
+/Users/kwadwo/Development/C#/Number Guessing Game/Number Guessing Game/obj/Debug/net6.0/refint/Number Guessing Game.dll
+/Users/kwadwo/Development/C#/Number Guessing Game/Number Guessing Game/obj/Debug/net6.0/Number Guessing Game.pdb
+/Users/kwadwo/Development/C#/Number Guessing Game/Number Guessing Game/obj/Debug/net6.0/Number Guessing Game.genruntimeconfig.cache
+/Users/kwadwo/Development/C#/Number Guessing Game/Number Guessing Game/obj/Debug/net6.0/ref/Number Guessing Game.dll

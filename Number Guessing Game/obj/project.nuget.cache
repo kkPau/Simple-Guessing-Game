@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "5qAOEJDcQH9m9vbeyCLKiJX7PbOFc0rTVHFZR2Jk8H0tdm0ZZX62cwVkxeUQcq6Ookjm7MmNFSRgpDUvpukxgA==",
+  "success": true,
+  "projectFilePath": "/Users/kwadwo/Development/C#/Number Guessing Game/Number Guessing Game/Number Guessing Game.csproj",
+  "expectedPackageFiles": [
+    "/Users/kwadwo/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.31/microsoft.aspnetcore.app.ref.6.0.31.nupkg.sha512",
+    "/Users/kwadwo/.nuget/packages/microsoft.netcore.app.host.osx-arm64/6.0.31/microsoft.netcore.app.host.osx-arm64.6.0.31.nupkg.sha512",
+    "/Users/kwadwo/.nuget/packages/microsoft.netcore.app.ref/6.0.31/microsoft.netcore.app.ref.6.0.31.nupkg.sha512"
+  ],
+  "logs": []
+}
